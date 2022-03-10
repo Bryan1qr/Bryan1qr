@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Bryan Quispe
-- 👀 I’m interested in environmental projects
+- 👋 Hi, I’m Bryan Quispe.
+- 👀 I’m interested in environmental projects.
 - 🌱 I’m currently learning Spatial analysis using RStudio.
 
 
