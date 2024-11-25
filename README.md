@@ -8,7 +8,7 @@ Bryan1qr/Bryan1qr is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://github.com/irwingss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bryan1qr&theme=react&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan1qr&theme=react&layout=compact&langs_count=10" />
+<a href="https://github.com/Bryan1qr">
+  <img width="300em" height="180em" src="https://github-readme-stats.vercel.app/api?username=Bryan1qr&theme=merko&show_icons=true" />
+  <img width="800em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan1qr&theme=merko&layout=compact&langs_count=10" />
 </a>
