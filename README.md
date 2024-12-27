@@ -1,7 +1,7 @@
 # About me
 - 👋 Hi, I’m Bryan Quispe.
 - 👀 I’m interested in environmental projects.
-- 🌱 I’m currently learning Spatial analysis using RStudio.
+- 🌱 I’m currently learning design of experiments using RStudio.
 
 
 <!---
