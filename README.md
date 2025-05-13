@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center"> 
   <img 
-    src="https://github-readme-stats-l-m-sherlock.vercel.app/apiusername=Bryan1qr&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+    src="https://github-readme-stats.vercel.app/api?username=Bryan1qr&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
     alt="My Github stats"
     height="220"
   />
