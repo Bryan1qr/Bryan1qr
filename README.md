@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
     height="220"
   />
   <img 
-    src="https://github-readme-stats-l-m-sherlock.vercel.app/api/top-langs/?username=Bryan1qr&hide=kotlin,java,html,css,Jupyter+Notebook&theme=transparent&layout=donut&role=OWNER,ORGANIZATION_MEMBER"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan1qr&hide=kotlin,java,html,css,Jupyter+Notebook&theme=transparent&layout=donut&role=OWNER,ORGANIZATION_MEMBER"
     alt="My Language stats"
     height="220"
   />
